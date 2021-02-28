@@ -23,7 +23,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: start;
-    width: 60%;
+    width: 54%;
     height: 100vh;
 }
 
@@ -58,6 +58,9 @@ body{
 }
 .group:nth-child(1){
     min-width: 19rem;
+    height: 22rem;
+    margin-top: 30px;
+    margin-bottom: 10px;
 }
 instagram-logo{
     height: 3rem;
@@ -78,10 +81,11 @@ instagram-logo{
     color: #ffff;
     padding: 8px;
     border-radius: 4px;
+    margin: 16px 34.781px;
 }
 .instagram-logout {
     color: #0095f6;
-    margin-top: 1rem;
+    margin-top: 15px 0;
 }
 .not-account{
     color: rgb(160, 160, 160);
